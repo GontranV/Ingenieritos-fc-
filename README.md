@@ -1,2 +1,2 @@
 # Ingenieritos-fc-
-Proyeecto de programacion
+Proyecto de programacion
